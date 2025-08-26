@@ -13,7 +13,7 @@ enabling full gameplay without traditional hand-based controls.
 
 ---
 
-## 🔧 Features
+##  Features
 - **Head tilt control (MPU6050)**  
   - Tilt forward/back → `W` / `S` movement  
   - Tilt left/right → `A` / `D` strafing  
@@ -39,7 +39,7 @@ enabling full gameplay without traditional hand-based controls.
 
 ---
 
-## 📂 Files
+##  Files
 - **`Minecraft_project_two_PID_with_SerialTuning.ino`**  
   Main Arduino sketch with PID smoothing and live tuning.  
 
@@ -48,7 +48,7 @@ enabling full gameplay without traditional hand-based controls.
 
 ---
 
-## 🚀 Usage
+##  Usage
 1. Connect the MPU6050 and HX711 + load cell to the Arduino Leonardo.  
 2. Upload the `.ino` sketch using Arduino IDE.  
 3. Open Minecraft on your computer.  
@@ -57,6 +57,6 @@ enabling full gameplay without traditional hand-based controls.
 
 ---
 
-## 📖 Reference
+##  Reference
 This project is inspired by the EN.580.471/771 course project prompt and designed  
 to improve **accessibility of gaming** for individuals with disabilities. 
